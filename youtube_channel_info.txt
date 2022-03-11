@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-JOSÉ GUTIÉRREZ EN CDN | Latino | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1tR4HSNaLaM%2Fmaxresdefault.jpg&f=1&nofb=1 | 
-https://www.youtube.com/channel/UC9FsiZ8bkF30O2UlpIJI-5w/live
+TVBS News | TW | https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1tR4HSNaLaM%2Fmaxresdefault.jpg&f=1&nofb=1 | 
+https://www.youtube.com/watch?v=yguQ1SzPM5U
 
 
