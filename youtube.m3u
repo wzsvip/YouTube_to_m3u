@@ -12,3 +12,40 @@
 
 
 #EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" tvg-id="6074", TVBS-Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714039811/ei/o9cpZsqFBJiZsfIPv8m5wAs/ip/52.234.26.85/id/YvdcZ_jpLXE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f39nvzGLSMB9tU0w2Ggr4Y1NFtkSBBN3qOmQ2iM-DGRGmKAs7iX0zcAZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeHAAoH631CNoxFx00iRcO4VfQso4iq4sRUdtlE6PfZ0CIDbj0QMA7kGXkBRxsdavZHJwRNo0cFB2yeGIlzBeB162/file/index.m3u8
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073", TVBS新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714039812/ei/pNcpZrvUBPiEsfIPl8GxqA4/ip/52.234.26.85/id/2mCSYvcfhtc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/UWF9f7gHvPU4kBcRWVfoIzf7Ra0cvhcUFGrsIcqwoDf0EUqgAetQErrZJnOj/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPxPgvHHJzvYbqZdbnDqW-q1AUNQYJJD8nZHpNoYt7hnAiEAm9Op31vxyuARzEwCAPng5lkSwvXrex0YiKCdv5fVD-4%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069", 東森新聞
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="6075", 東森財經新聞
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="9999", 中天新聞
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="7176", 中視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714039817/ei/qdcpZqT5NIP1sfIPqtCd4As/ip/52.234.26.85/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9qr_W1gxULH0opvuPbRU1IvkyRk4IJqGToreF8x67pN6wDE6fwrJKL-/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ1CsNGDkmgsE5zCfSO_zEMvTXtGj_2MN3tVlMvHWiomAiAP5VAMm59_db3b1kkX5MYFk_jhb9SPHuRnLIiVEqi2Sg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071", 民視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714039818/ei/qtcpZpSSLujdsfIP4s-SgAo/ip/52.234.26.85/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1d1-z9Omv-_NX_8fqthqEk4NcJ9VDnHjtuEbIcGpka6dcNwrmqKby_S/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPPRQr-5CpdJsLjAUIIOuxE_hhyn6SQNwVEJcke4HTLgAiA_2is2DEcJTxrKp2wFR2sQm3p80J7E5yTZZCtNA93NCA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171", 寰宇新聞
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" tvg-id="6073", 三立財經新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714039820/ei/rNcpZr-dB-zJsfIP0qqv0AI/ip/52.234.26.85/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_3oHEetL6bwr809inZ9uifZ_Bhpnpfs0CoT_p8-Ym5YyHOMj3_tj9hA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKrp-xbiKnJulAmfvMM0fOIrmDCPozcTn5CC18g8ziq2AiBPb4AuRPpEUEy2VyDkYM2vVOYU1XjLFrp21KyBjj_-Sg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072", 三立新聞
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="6143", 台視新聞
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714039822/ei/rtcpZqyXKY-wsfIPwtKpmAk/ip/52.234.26.85/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118561/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzUKHXm4xRhcaIyckVmnuHFWA0J-BMjL9QHDizT9la-EVsQTsAce1FFj/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeizi2axlVELHguMGGy8x2HMhS9evWogiwsYfTgW-N6wCIQDlzebq4lPCnVMnNlGrgt-ZrC7SR6mL_8WPL7QjMELAhA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="台灣新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="999", 華視新聞
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
+
+#EXTINF:-1 group-title="中國新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cctv4.png" tvg-id="6073", CCTV4中文國際
+https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u
