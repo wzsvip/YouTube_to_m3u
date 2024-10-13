@@ -1,3 +1,9 @@
+#! /usr/bin/python3
+
+banner = r'''
+
+'''
+
 import requests
 import os
 import sys
@@ -10,11 +16,13 @@ def grab(url):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            return None
+            print('https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u')
+            return
         os.system(f'curl "{url}" > temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            return None
+            print('https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u')
+            return
     end = response.find('.m3u8') + 5
     tuner = 100
     while True:
@@ -25,24 +33,25 @@ def grab(url):
             break
         else:
             tuner += 5
-    return f"{link[start : end]}"
+    print(f"{link[start : end]}")
 
-m3u8_links = []
+print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+print(banner)
 with open('../youtube_channel_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
             continue
         if not line.startswith('https:'):
-            continue
-        m3u8_link = grab(line)
-        if m3u8_link:
-            m3u8_links.append(m3u8_link)
-
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+        else:
+            grab(line)
+            
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
-
-print("通用的链接m3u8地址：")
-for link in m3u8_links:
-    print(link)
