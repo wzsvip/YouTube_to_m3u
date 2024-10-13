@@ -3,43 +3,43 @@
 	
 
 TVBS-Live | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/TVBS.png | 6074
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
+http://youtu.wuzhij.us.kg/youtube/video/YvdcZ_jpLXE.m3u8
 
 TVBS新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 6073
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+http://youtu.wuzhij.us.kg/youtube/video/2mCSYvcfhtc.m3u8
 
 東森新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/EBCNews.png | 6069
-https://www.youtube.com/watch?v=R2iMq5LKXco
+http://youtu.wuzhij.us.kg/youtube/video/R2iMq5LKXco.m3u8
 
 東森財經新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png | 6075
-https://www.youtube.com/watch?v=ABn_ccXn_jc
+http://youtu.wuzhij.us.kg/youtube/video/ABn_ccXn_jc.m3u8
 
 中天新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 9999
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+http://youtu.wuzhij.us.kg/youtube/video/_QbRXRnHMVY.m3u8
 
 中視新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/中视新闻.png | 7176
-https://www.youtube.com/watch?v=TCnaIE_SAtM
+http://youtu.wuzhij.us.kg/youtube/video/TCnaIE_SAtM.m3u8
 
 民視新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/FTVNews.png | 6071
-https://ythls.kekikakademi.org/youtube/video/ylYJSBUgaMA.m3u8
+http://youtu.wuzhij.us.kg/youtube/video/ylYJSBUgaMA.m3u8
 
 寰宇新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png | 6171
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
+http://youtu.wuzhij.us.kg/youtube/video/B7Zp3d6xXWw.m3u8
 
 三立財經新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/SETInews.png | 6073
-https://www.youtube.com/watch?v=CKjSm5ZeehE
+http://youtu.wuzhij.us.kg/youtube/video/CKjSm5ZeehE.m3u8
 
 三立新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/SETNews.png | 6072
-https://www.youtube.com/watch?v=EB4g7wecgTI
+http://youtu.wuzhij.us.kg/youtube/video/EB4g7wecgTI.m3u8
 
 台視新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/台视新闻.png | 6143
-https://www.youtube.com/watch?v=xL0ch83RAK8
+http://youtu.wuzhij.us.kg/youtube/video/xL0ch83RAK8.m3u8
 
 華視新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 999
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
+http://youtu.wuzhij.us.kg/youtube/video/wM0g8EoUZ_E.m3u8
 
 CCTV4中文國際 | 中國新聞 | http://epg.51zmt.top:8000/tb1/gt/cctv4.png | 6073
-https://www.youtube.com/watch?v=QTz6avPD4Ns
+http://youtu.wuzhij.us.kg/youtube/video/QTz6avPD4Ns.m3u8
 
 clot-027c | 中國新聞 | http://epg.51zmt.top:8000/tb1/gt/cctv4.png | 6073
 https://javdap.com/video/57924/clot-027c
