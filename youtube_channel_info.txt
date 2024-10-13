@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=_QbRXRnHMVY
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
 民視新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/FTVNews.png | 6071
-https://www.youtube.com/watch?v=ylYJSBUgaMA
+https://ythls.kekikakademi.org/youtube/video/ylYJSBUgaMA.m3u8
 
 寰宇新聞 | 台灣新聞 | http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png | 6171
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
