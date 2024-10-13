@@ -1,36 +1,55 @@
 import requests
-from bs4 import BeautifulSoup
-import time
+import os
+import sys
 
-def extract_m3u8_links(url):
-    try:
-        response = requests.get(url, timeout=5)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, 'html.parser')
-            m3u8_links = [link['href'] for link in soup.find_all('a', href=True) if 'http' in link['href'] and '.m3u8' in link['href']]
-            return m3u8_links
-    except Exception as e:
-        print(f"Error while accessing {url}: {e}")
-    return []
+windows = False
+if 'win' in sys.platform:
+    windows = True
 
-def save_m3u8_links_to_file(links, file_path):
-    with open(file_path, 'w') as f:
-        for link in links:
-            f.write(link + '
-')
+def grab(url):
+    response = requests.get(url, timeout=15).text
+    if '.m3u8' not in response:
+        #response = requests.get(url).text
+        if '.m3u8' not in response:
+            if windows:
+                print('https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u')
+                return
+            #os.system(f'wget {url} -O temp.txt')
+            os.system(f'curl "{url}" > temp.txt')
+            response = ''.join(open('temp.txt').readlines())
+            if '.m3u8' not in response:
+                print('https://raw.githubusercontent.com/Kentsonshum/YouTube_to_m3u/main/assets/info.m3u')
+                return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end-tuner : end]:
+            link = response[end-tuner : end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
+            break
+        else:
+            tuner += 5
+    print(f"{link[start : end]}")
 
-if __name__ == "__main__":
-    input_file = '../youtube_channel_info.txt'
-    output_file = '../wz.txt'
-
-    with open(input_file, 'r') as f:
-        urls = f.readlines()
-
-    all_m3u8_links = []
-    for url in urls:
-        url = url.strip()
-        m3u8_links = extract_m3u8_links(url)
-        all_m3u8_links.extend(m3u8_links)
-        time.sleep(1)  # Wait for 1 second before accessing the next URL
-
-    save_m3u8_links_to_file(all_m3u8_links, output_file)
+print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+print(banner)
+#s = requests.Session()
+with open('../youtube_channel_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+        else:
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
+    os.system('rm watch*')
