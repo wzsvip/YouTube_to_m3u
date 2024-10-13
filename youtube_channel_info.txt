@@ -1,54 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
-
-TVBS-Live | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/TVBS.png | 6074
-http://ythls.kekikakademi.org/youtube/video/YvdcZ_jpLXE.m3u8
-
-TVBS新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 6073
-http://ythls.kekikakademi.org/youtube/video/2mCSYvcfhtc.m3u8
-
-东森新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/EBCNews.png | 6069
-http://ythls.kekikakademi.org/youtube/video/R2iMq5LKXco.m3u8
-
-东森财经新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png | 6075
-http://ythls.kekikakademi.org/youtube/video/ABn_ccXn_jc.m3u8
-
-中天新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 9999
-http://ythls.kekikakademi.org/youtube/video/_QbRXRnHMVY.m3u8
-
-中视新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/中视新闻.png | 7176
-http://ythls.kekikakademi.org/youtube/video/TCnaIE_SAtM.m3u8
-
-民视新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/FTVNews.png | 6071
-http://ythls.kekikakademi.org/youtube/video/ylYJSBUgaMA.m3u8
-
-寰宇新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png | 6171
-http://ythls.kekikakademi.org/youtube/video/B7Zp3d6xXWw.m3u8
-
-镜新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/镜新闻 | 6192
-http://ythls.kekikakademi.org/youtube/video/5n0y6b0Q25o.m3u8
-
-三立财经新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/SETInews.png | 6073
-http://ythls.kekikakademi.org/youtube/video/CKjSm5ZeehE.m3u8
-
-三立新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/SETNews.png | 6072
-http://ythls.kekikakademi.org/youtube/video/EB4g7wecgTI.m3u8
-
-台视新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/台视新闻.png | 6143
-http://ythls.kekikakademi.org/youtube/video/xL0ch83RAK8.m3u8
-
-华视新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/公视新闻.png | 999
-http://ythls.kekikakademi.org/youtube/video/wM0g8EoUZ_E.m3u8
-
-公视新闻 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png | 999
-http://ythls.kekikakademi.org/youtube/video/quwqlazU-c8.m3u8
-
-CCTV4中文国际 | 中国新闻 | http://epg.51zmt.top:8000/tb1/gt/cctv4.png | 6073
-http://ythls.kekikakademi.org/youtube/video/QTz6avPD4Ns.m3u8
-
-新唐人亚太台 | 台湾新闻 | http://epg.51zmt.top:8000/tb1/gt/cctv4.png | 6073
-http://ythls.kekikakademi.org/youtube/video/WIhgU_mc05A.m3u8
-
 死侍 | | | 
 https://feifyy.vip/start/oZaeoZer-1-1.html
